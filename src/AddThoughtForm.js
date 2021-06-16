@@ -17,7 +17,6 @@ export function AddThoughtForm(props) {
       }
 
       if(text.length > 0){
-        console.log("Czika");
         props.addThought(thought);
         setText('');
       }

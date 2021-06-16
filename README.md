@@ -20,7 +20,7 @@ After pull respository to open project on localhost write in console:
 
 ***
  
-![thoughts - main functionality](https://user-images.githubusercontent.com/47725233/122255520-7e26f800-cece-11eb-934e-c4aaab6653d8.png)
+![takson - main functionality](https://user-images.githubusercontent.com/47725233/122254268-41a6cc80-cecd-11eb-9125-030ee803a9a7.png)
   
 
 ### Future solutions
@@ -28,3 +28,5 @@ After pull respository to open project on localhost write in console:
 ***
 
 * Add user register and login
+
+### Project created from codeacademy course
